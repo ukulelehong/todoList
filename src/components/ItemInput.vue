@@ -1,5 +1,5 @@
 <template>
-  <div class=" flex shadow-lg text-opacity-10">
+  <div class=" flex border shadow-lg text-opacity-10">
     <div class="w-12 bg-white text-3xl flex justify-center items-center">
         <span class="rotate-90 opacity-10">❯</span>
     </div>
